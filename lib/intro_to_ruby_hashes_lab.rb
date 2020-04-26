@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  family_member[:Robbie] = 3
+  { robbie: 3 }
 end
 
 def pioneer
